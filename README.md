@@ -1,5 +1,14 @@
 # Minicurso Introdução ao Desenvolvimento Web
 
+## Quem sou eu?
+
+**Nome:** Elemar Leonel
+**Formação:** Graduado em Sistemas de Informação pela UNESC em 2020 e pós-graduado em Desenvolvimento Web pelo IFRO em 2023.
+**Experiência:** Atuo como Desenvolvedor Web na Agência Creattion em Pimenta Bueno.
+
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elemarleonel.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianne-dutra-0086801a1/)](https://www.linkedin.com/in/elemarleonel/)
+
 ## Introdução ao Desenvolvimento Web
 
 ### O que é Desenvolvimento Web?
